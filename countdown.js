@@ -2,7 +2,7 @@
 
 
 function countdownToHalloween() {
-    const halloween = new Date("October 31, 2022 0:00:00");
+    const halloween = new Date("October 31, 2023 0:00:00");
     
     let now = new Date();
     let difference = halloween-now;
